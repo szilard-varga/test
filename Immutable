@@ -1,4 +1,3 @@
-// class is declared final
 final class Immutable {
 
   // private class members
