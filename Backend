@@ -4,6 +4,7 @@ interface Backend {
   public void connectServer();
 }
 
+// simple printer
 class Frontend {
 
   public void responsive(String str) {
