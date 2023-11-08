@@ -1,5 +1,6 @@
 public class AsciiValue {
 
+// simple class
     public static void main(String[] args) {
 
         char ch = 'a';
