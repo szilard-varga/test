@@ -1,11 +1,10 @@
 import java.lang.reflect.*;
 
+the test
 class Test {
 
-  // private variables
   private String name;
 
-  // private method
   private void display() {
     System.out.println("The name is " + name);
   }
