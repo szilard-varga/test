@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 
-public class DomesticFlight extends JFrame
+public class DomesticFlight2 extends JFrame
 {
 	JComboBox CBFrom, CBTo, CBClass, CBAdult, CBChildren, CBInfant;
 	JLabel LFrom, LTo, LBookingDate, LClass, LAdult, LChildren, LInfant, LBookingDetails, LPassengerDetails, LDate, LImg1, LImg2, LNotes;
@@ -14,7 +14,7 @@ public class DomesticFlight extends JFrame
 
 	LoginPage type1;
 
-	public DomesticFlight(LoginPage type1)
+	public DomesticFlight2(LoginPage type1)
 	{
 		Container c =getContentPane();
 		c.setLayout(new BorderLayout());
