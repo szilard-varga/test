@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
-*
+* this is version 2
 * Binary Search in Java
 *
 */ 
