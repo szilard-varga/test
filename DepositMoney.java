@@ -3,6 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.io.*;
 
+// this is the deposit contract
 public class DepositMoney extends JInternalFrame implements ActionListener {
 
 	private JPanel jpDep = new JPanel();
