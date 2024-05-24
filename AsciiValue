@@ -1,6 +1,6 @@
 public class AsciiValue {
 
-// simple class
+// just a test
     public static void main(String[] args) {
 
         char ch = 'a';
@@ -8,6 +8,7 @@ public class AsciiValue {
         // You can also cast char to int
         int castAscii = (int) ch;
 
+        // lets see what is the output
         System.out.println("The ASCII value of " + ch + " is: " + ascii);
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
