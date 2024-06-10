@@ -3,6 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.io.*;
 
+// here is the main class
 public class DeleteCustomer extends JInternalFrame implements ActionListener {
 
 	private JPanel jpDel = new JPanel();
