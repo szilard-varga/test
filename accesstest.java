@@ -1,6 +1,6 @@
 import java.lang.reflect.*;
 
-the test
+// test class
 class Test {
 
   private String name;
